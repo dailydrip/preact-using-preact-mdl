@@ -1,0 +1,26 @@
+ul {
+	min-height: 100px;
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	list-style: none;
+
+	li {
+		padding: 10px;
+		background: #FFF;
+	}
+}
+
+a {
+	text-decoration: none;
+	color: rgb(103,58,183);
+}
+
+.mdl-card {
+	margin: auto;
+	width: 50%;
+	transition: all .3s;
+	transform: translateY(100px);
+}
+
+
